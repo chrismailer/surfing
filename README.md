@@ -18,11 +18,11 @@ Conditions and webcams for surfing in Cape Town
 </div>
 
 <div class="container-fluid">
-    <iframe width="100%" height="433" src="https://embed.windy.com/embed2.html?lat=-34.064&lon=18.572&detailLat=-34.049&detailLon=18.481&width=380&height=433&zoom=9&level=surface&overlay=wind&product=ecmwf&menu=&message=true&marker=&calendar=now&pressure=&type=map&location=coordinates&detail=&metricWind=default&metricTemp=default&radarRange=-1" frameborder="0"></iframe>
+    <iframe width="100%" height="224" src="https://embed.windy.com/embed2.html?lat=-34.064&lon=18.572&detailLat=-34.049&detailLon=18.481&width=380&height=224&zoom=9&level=surface&overlay=wind&product=ecmwf&menu=&message=true&marker=&calendar=now&pressure=&type=map&location=coordinates&detail=&metricWind=default&metricTemp=default&radarRange=-1" frameborder="0"></iframe>
 </div>
 
 <div class="container-fluid">
-    <iframe width="100%" height="433" src="https://embed.windy.com/embed2.html?lat=-34.064&lon=18.572&detailLat=-34.049&detailLon=18.481&width=380&height=433&zoom=9&level=surface&overlay=swell1&product=ecmwfWaves&menu=&message=true&marker=&calendar=now&pressure=&type=map&location=coordinates&detail=&metricWind=default&metricTemp=default&radarRange=-1" frameborder="0"></iframe>
+    <iframe width="100%" height="224" src="https://embed.windy.com/embed2.html?lat=-34.064&lon=18.572&detailLat=-34.049&detailLon=18.481&width=380&height=224&zoom=9&level=surface&overlay=swell1&product=ecmwfWaves&menu=&message=true&marker=&calendar=now&pressure=&type=map&location=coordinates&detail=&metricWind=default&metricTemp=default&radarRange=-1" frameborder="0"></iframe>
 </div>
 
 These webcams are publicly available on [Ocean Eye](https://oceaneye.co.za). Please support them.
