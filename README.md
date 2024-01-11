@@ -10,6 +10,21 @@ Conditions and webcams for surfing in Cape Town
     <iframe width="100%" height="433" src="https://embed.windy.com/embed2.html?lat=-34.064&lon=18.572&detailLat=-34.049&detailLon=18.481&width=380&height=433&zoom=9&level=surface&overlay=swell1&product=ecmwfWaves&menu=&message=true&marker=&calendar=now&pressure=&type=map&location=coordinates&detail=&metricWind=default&metricTemp=default&radarRange=-1" frameborder="0"></iframe>
 </div>
 
+<div class="container-fluid">
+    <script id="wg_fwdg_91_100_1705003919410">
+(function (window, document) {
+  var loader = function () {
+    var arg = ["s=91" ,"m=100","uid=wg_fwdg_91_100_1705003919410" ,"wj=knots" ,"tj=c" ,"waj=m" ,"tij=cm" ,"odh=0" ,"doh=24" ,"fhours=240" ,"hrsm=2" ,"vt=forecasts" ,"lng=en" ,"idbs=1" ,"p=WINDSPD,GUST,SMER,TMPE,FLHGT,CDC,APCP1s,RATING"];
+    var script = document.createElement("script");
+    var tag = document.getElementsByTagName("script")[0];
+    script.src = "https://www.windguru.cz/js/widget.php?"+(arg.join("&"));
+    tag.parentNode.insertBefore(script, tag);
+  };
+  window.addEventListener ? window.addEventListener("load", loader, false) : window.attachEvent("onload", loader);
+})(window, document);
+</script>
+</div>
+
 These webcams are publicly available on [Ocean Eye](https://oceaneye.co.za). Please support them.
 
 ## Muizenberg
