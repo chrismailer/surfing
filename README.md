@@ -1,18 +1,20 @@
-# Cape Town Surfing
 Conditions and webcams for surfing in Cape Town
 
-[Muizenberg](#Muizenberg), [Kommetjie](#Kommetjie), [Noordhoek](#Noordhoek)
+[Muizenberg](http://www.chrismailer.com/surfing/#muizenberg)・[Kommetjie](http://www.chrismailer.com/surfing/#kommetjie)・[Noordhoek](#noordhoek)・
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
-        <iframe width="100%" height="433" src="https://embed.windy.com/embed2.html?lat=-34.064&lon=18.572&detailLat=-34.049&detailLon=18.481&width=380&height=433&zoom=9&level=surface&overlay=wind&product=ecmwf&menu=&message=true&marker=&calendar=now&pressure=&type=map&location=coordinates&detail=&metricWind=default&metricTemp=default&radarRange=-1" frameborder="0"></iframe>
-    </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
-        <iframe width="100%" height="433" src="https://embed.windy.com/embed2.html?lat=-34.064&lon=18.572&detailLat=-34.049&detailLon=18.481&width=380&height=433&zoom=9&level=surface&overlay=swell1&product=ecmwfWaves&menu=&message=true&marker=&calendar=now&pressure=&type=map&location=coordinates&detail=&metricWind=default&metricTemp=default&radarRange=-1" frameborder="0"></iframe>
-    </div>
-</div>  
 
-These webcams come from [Ocean Eye](https://oceaneye.co.za)
+<div class="container">
+    <div class="row">
+        <div class="col-xs-6">
+            <iframe width="100%" height="433" src="https://embed.windy.com/embed2.html?lat=-34.064&lon=18.572&detailLat=-34.049&detailLon=18.481&width=380&height=433&zoom=9&level=surface&overlay=wind&product=ecmwf&menu=&message=true&marker=&calendar=now&pressure=&type=map&location=coordinates&detail=&metricWind=default&metricTemp=default&radarRange=-1" frameborder="0"></iframe>
+        </div>
+        <div class="col-xs-6">
+            <iframe width="100%" height="433" src="https://embed.windy.com/embed2.html?lat=-34.064&lon=18.572&detailLat=-34.049&detailLon=18.481&width=380&height=433&zoom=9&level=surface&overlay=swell1&product=ecmwfWaves&menu=&message=true&marker=&calendar=now&pressure=&type=map&location=coordinates&detail=&metricWind=default&metricTemp=default&radarRange=-1" frameborder="0"></iframe>
+        </div>
+    </div>
+</div>
+
+These webcams are publicly available on [Ocean Eye](https://oceaneye.co.za). Please support them.
 
 ## Muizenberg
 <div class="row mt-3">
