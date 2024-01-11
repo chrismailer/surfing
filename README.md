@@ -63,5 +63,5 @@ These webcams are publicly available on [Ocean Eye](https://oceaneye.co.za). Ple
 
 ## Strand
 <div class="container-fluid">
-    <iframe width="100%" height="auto" src="https://www.youtube.com/embed/pLXniry24hg?autoplay=1"></iframe>
+    {% include youtube.html width="100%" height="auto" id="pLXniry24hg" autoplay="1" %}
 </div>
