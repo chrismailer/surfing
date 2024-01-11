@@ -1,6 +1,6 @@
 Conditions and webcams for surfing in Cape Town
 
-[Muizenberg](#muizenberg)・[Kommetjie](#kommetjie)・[Noordhoek](#noordhoek)・[Big Bay](#big-bay)・[Blouberg](#blouberg)・[Kite Beach](#kite-beach)・[Llandudno](#llandudno)・[Strand](#strand)
+[Muizenberg](#muizenberg)・[Kommetjie](#kommetjie)・[Noordhoek](#noordhoek)・[Big Bay](#big-bay)・[Blouberg](#blouberg)・[Kite Beach](#kite-beach)・[Llandudno](#llandudno)・[Strand](#strand)
 
 <div class="container-fluid">
     <script id="wg_fwdg_91_100_1705004286046">
