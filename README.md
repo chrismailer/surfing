@@ -3,7 +3,7 @@ Conditions and webcams for surfing in Cape Town
 [Muizenberg](#muizenberg)・[Kommetjie](#kommetjie)・[Noordhoek](#noordhoek)・[Big Bay](#big-bay)・[Blouberg](#blouberg)・[Kite Beach](#kite-beach)・[Llandudno](#llandudno)・[Strand](#strand)
 
 
-<div class="container">
+<div class="container-fluid">
     <div class="row">
         <div class="col-sm-6">
             <iframe width="100%" height="433" src="https://embed.windy.com/embed2.html?lat=-34.064&lon=18.572&detailLat=-34.049&detailLon=18.481&width=380&height=433&zoom=9&level=surface&overlay=wind&product=ecmwf&menu=&message=true&marker=&calendar=now&pressure=&type=map&location=coordinates&detail=&metricWind=default&metricTemp=default&radarRange=-1" frameborder="0"></iframe>
@@ -17,7 +17,7 @@ Conditions and webcams for surfing in Cape Town
 These webcams are publicly available on [Ocean Eye](https://oceaneye.co.za). Please support them.
 
 ## Muizenberg
-<div class="container">
+<div class="container-fluid">
     <div class="row">
         <video width="100%" height="auto" controls preload="auto">
             <source src="https://live-sec.streamworks.co.za/oceaneye/oceaneye45.stream/playlist_dvr.m3u8" type="application/x-mpegURL">
