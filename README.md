@@ -18,72 +18,56 @@ These webcams are publicly available on [Ocean Eye](https://oceaneye.co.za). Ple
 
 ## Muizenberg
 <div class="container-fluid">
-    <div class="row">
-        <video width="100%" height="auto" controls preload="auto">
-            <source src="https://live-sec.streamworks.co.za/oceaneye/oceaneye45.stream/playlist_dvr.m3u8" type="application/x-mpegURL">
-        </video>
-    </div>
-</div>  
+    <video width="100%" height="auto" controls preload="auto">
+        <source src="https://live-sec.streamworks.co.za/oceaneye/oceaneye45.stream/playlist_dvr.m3u8" type="application/x-mpegURL">
+    </video>
+</div>
 
 ## Kommetjie
-<div class="row">
-    <div class="col-sm">
-        <video width="100%" height="auto" controls preload="auto">
-            <source src="https://live-sec.streamworks.video/oceaneye/oceaneye49.stream/playlist.m3u8" type="application/x-mpegURL">
-        </video>
-    </div>
-</div>  
+<div class="container-fluid">
+    <video width="100%" height="auto" controls preload="auto">
+        <source src="https://live-sec.streamworks.video/oceaneye/oceaneye49.stream/playlist.m3u8" type="application/x-mpegURL">
+    </video>
+</div>
 
 ## Noordhoek
-<div class="row">
-    <div class="col-sm">
-        <video width="100%" height="auto" controls preload="auto">
-            <source src="https://live-sec.streamworks.video/oceaneye/oceaneye30.stream/playlist.m3u8" type="application/x-mpegURL">
-        </video>
-    </div>
-</div>  
+<div class="container-fluid">
+    <video width="100%" height="auto" controls preload="auto">
+        <source src="https://live-sec.streamworks.video/oceaneye/oceaneye30.stream/playlist.m3u8" type="application/x-mpegURL">
+    </video>
+</div>
 
 ## Big Bay
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        <video width="100%" height="auto" controls preload="auto">
-            <source src="https://live-sec.streamworks.video/oceaneye/oceaneye12.stream/playlist.m3u8" type="application/x-mpegURL">
-        </video>
-    </div>
-</div>  
+<div class="container-fluid">
+    <video width="100%" height="auto" controls preload="auto">
+        <source src="https://live-sec.streamworks.video/oceaneye/oceaneye12.stream/playlist.m3u8" type="application/x-mpegURL">
+    </video>
+</div>
 
 ## Blouberg
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        <video width="100%" height="auto" controls preload="auto">
-            <source src="https://live-sec.streamworks.video/oceaneye/oceaneye11.stream/playlist.m3u8" type="application/x-mpegURL">
-        </video>
-    </div>
-</div>  
+<div class="container-fluid">
+    <video width="100%" height="auto" controls preload="auto">
+        <source src="https://live-sec.streamworks.video/oceaneye/oceaneye11.stream/playlist.m3u8" type="application/x-mpegURL">
+    </video>
+</div>
 
 ## Kite Beach
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        <video width="100%" height="auto" controls preload="auto">
-            <source src="https://live-sec.streamworks.video/oceaneye/oceaneye28.stream/playlist.m3u8" type="application/x-mpegURL">
-        </video>
-    </div>
-</div>  
+<div class="container-fluid">
+    <video width="100%" height="auto" controls preload="auto">
+        <source src="https://live-sec.streamworks.video/oceaneye/oceaneye28.stream/playlist.m3u8" type="application/x-mpegURL">
+    </video>
+</div>
 
 ## Llandudno
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        <video width="100%" height="auto" controls preload="auto">
-            <source src="https://cams.cdn-surfline.com/cdn-int/za-llandudno/playlist.m3u8" type="application/x-mpegURL">
-        </video>
-    </div>
-</div>   
+<div class="container-fluid">
+    <video width="100%" height="auto" controls preload="auto">
+        <source src="https://cams.cdn-surfline.com/cdn-int/za-llandudno/playlist.m3u8" type="application/x-mpegURL">
+    </video>
+</div>
 
 ## Strand
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        <iframe width="100%" height="auto"
-            src="https://www.youtube.com/embed/pLXniry24hg?autoplay=">
-        </iframe>
-    </div>
+<div class="container-fluid">
+    <iframe width="100%" height="auto"
+        src="https://www.youtube.com/embed/pLXniry24hg?autoplay=">
+    </iframe>
 </div>
