@@ -1,6 +1,6 @@
 Conditions and webcams for surfing in Cape Town
 
-[Strand](#strand)・[Muizenberg](#muizenberg)・[Kommetjie](#kommetjie)・[Noordhoek](#noordhoek)・[Llandudno](#llandudno)・[Sunset Beach](#sunset-beach)・[Kite Beach](#kite-beach)・[Blouberg](#blouberg)・[Big Bay](#big-bay)・[Melkbos](#melkbos)
+[Strand](#strand)・[Muizenberg](#muizenberg)・[Kommetjie](#kommetjie)・[Noordhoek](#noordhoek)・[Llandudno](#llandudno)・[Camps Bay](#camps-bay)・[Sea Point](#sea-point)・[Sunset Beach](#sunset-beach)・[Kite Beach](#kite-beach)・[Blouberg](#blouberg)・[Big Bay](#big-bay)・[Melkbos](#melkbos)
 
 <div class="container-fluid">
     <script id="wg_fwdg_91_100_1705004286046">
@@ -55,6 +55,20 @@ Conditions and webcams for surfing in Cape Town
 <div class="container-fluid">
     <video width="100%" height="auto" controls preload="auto">
         <source src="https://cams.cdn-surfline.com/cdn-int/za-llandudno/playlist.m3u8" type="application/x-mpegURL">
+    </video>
+</div>
+
+## Camps Bay
+<div class="container-fluid">
+    <video width="100%" height="auto" controls="" preload="auto">
+        <source src="https://live-sec.streamworks.video/oceaneye/oceaneye32.stream/playlist.m3u8" type="application/x-mpegURL">
+    </video>
+</div>
+
+## Sea Point
+<div class="container-fluid">
+    <video width="100%" height="auto" controls="" preload="auto">
+        <source src="https://live-sec.streamworks.video/oceaneye/oceaneye29.stream/playlist.m3u8" type="application/x-mpegURL">
     </video>
 </div>
 
