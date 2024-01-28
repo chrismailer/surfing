@@ -25,6 +25,8 @@ Conditions and webcams for surfing in Cape Town
     <iframe width="100%" height="224" src="https://embed.windy.com/embed2.html?lat=-34.064&lon=18.572&detailLat=-34.049&detailLon=18.481&width=380&height=224&zoom=9&level=surface&overlay=swell1&product=ecmwfWaves&menu=&message=true&marker=&calendar=now&pressure=&type=map&location=coordinates&detail=&metricWind=default&metricTemp=default&radarRange=-1" frameborder="0"></iframe>
 </div>
 
+[Constantiaberg Weather Station](https://lognet.saeon.ac.za/Constantiaberg/index.html) ・ [Dwarsberg Weather Station](https://lognet.saeon.ac.za/Dwarsberg/index.html)
+
 ## Strand
 <div class="container-fluid">
     {% include youtube.html width="100%" height="auto" id="pLXniry24hg" autoplay="1" %}
