@@ -63,7 +63,7 @@ Conditions and webcams for surfing in Cape Town
 ## Camps Bay
 <div class="container-fluid">
     <video width="100%" height="auto" controls="" preload="auto">
-        <source src="https://live-sec.streamworks.video/oceaneye/oceaneye32.stream/playlist.m3u8" type="application/x-mpegURL">
+        <source src="https://live-sec.streamworks.video/oceaneye/oceaneye47.stream/playlist.m3u8" type="application/x-mpegURL">
     </video>
 </div>
 
