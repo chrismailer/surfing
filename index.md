@@ -29,7 +29,7 @@ Conditions and webcams for surfing in Cape Town
 
 ## Strand
 <div class="container-fluid">
-    {% include youtube.html width="100%" height="auto" id="pLXniry24hg" autoplay="1" %}
+    {% include youtube.html width="100%" height="auto" id="k19xR19WKCk" autoplay="1" %}
 </div>
 
 ## Muizenberg
