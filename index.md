@@ -28,8 +28,14 @@ Conditions and webcams for surfing in Cape Town
 [Constantiaberg Weather Station](https://lognet.saeon.ac.za/Constantiaberg/index.html) ・ [Dwarsberg Weather Station](https://lognet.saeon.ac.za/Dwarsberg/index.html)
 
 ## Strand
-<div class="container-fluid">
-    {% include youtube.html width="100%" height="auto" id="QGLHH1PDst0" autoplay="1" %}
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe
+    src="https://www.youtube.com/embed/MbHfoOpSfl4?si=10kuCe8R7T7LW7q5"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+    title="YouTube video player"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
 </div>
 
 ## Muizenberg
