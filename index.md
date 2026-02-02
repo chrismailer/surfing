@@ -1,4 +1,4 @@
-Conditions and webcams for surfing in Cape Town. Last updated: {{ page.last_modified_at | date: "%d-%m-%Y" }}
+Conditions and webcams for surfing in Cape Town. *Last updated: 02-02-2026*
 
 [Strand](#strand)・[Muizenberg](#muizenberg)・[Blouberg](#blouberg)・~~[Kommetjie](#kommetjie)~~・~~[Noordhoek](#noordhoek)~~・~~[Llandudno](#llandudno)~~・~~[Camps Bay](#camps-bay)~~・~~[Sea Point](#sea-point)~~・~~[Sunset Beach](#sunset-beach)~~・~~[Kite Beach](#kite-beach)~~・~~[Big Bay](#big-bay)~~・~~[Melkbos](#melkbos)~~
 
