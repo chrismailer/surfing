@@ -33,10 +33,13 @@ Conditions and webcams for surfing in Cape Town
 </div>
 
 ## Muizenberg
-<div class="container-fluid">
-    <video width="100%" height="auto" controls preload="auto">
-        <source src="https://live-sec.streamworks.co.za/oceaneye/oceaneye45.stream/playlist_dvr.m3u8" type="application/x-mpegURL">
-    </video>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe
+    src="https://g2.ipcamlive.com/player/player.php?alias=cornersurfshop"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+    allowfullscreen
+    loading="lazy">
+  </iframe>
 </div>
 
 ## Kommetjie
