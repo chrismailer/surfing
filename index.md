@@ -1,6 +1,6 @@
-Conditions and webcams for surfing in Cape Town
+Conditions and webcams for surfing in Cape Town. Last updated: {{ page.last_modified_at | date: "%d-%m-%Y" }}
 
-[Strand](#strand)・[Muizenberg](#muizenberg)・[Kommetjie](#kommetjie)・[Noordhoek](#noordhoek)・[Llandudno](#llandudno)・[Camps Bay](#camps-bay)・[Sea Point](#sea-point)・[Sunset Beach](#sunset-beach)・[Kite Beach](#kite-beach)・[Blouberg](#blouberg)・[Big Bay](#big-bay)・[Melkbos](#melkbos)
+[Strand](#strand)・[Muizenberg](#muizenberg)・[Blouberg](#blouberg)・~~[Kommetjie](#kommetjie)~~・~~[Noordhoek](#noordhoek)~~・~~[Llandudno](#llandudno)~~・~~[Camps Bay](#camps-bay)~~・~~[Sea Point](#sea-point)~~・~~[Sunset Beach](#sunset-beach)~~・~~[Kite Beach](#kite-beach)~~・~~[Big Bay](#big-bay)~~・~~[Melkbos](#melkbos)~~
 
 <div class="container-fluid">
     <script id="wg_fwdg_91_100_1705004286046">
@@ -48,72 +48,43 @@ Conditions and webcams for surfing in Cape Town
   </iframe>
 </div>
 
-## Kommetjie
-<div class="container-fluid">
-    <video width="100%" height="auto" controls preload="auto">
-        <source src="https://live-sec.streamworks.video/oceaneye/oceaneye49.stream/playlist.m3u8" type="application/x-mpegURL">
-    </video>
+## Blouberg
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe
+    src="https://www.youtube.com/embed/YfwTcW1IkN4?si=fwcN9Z0VR1o-AmJP"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+    title="YouTube video player"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
 </div>
+
+## Kommetjie
+⚠️ Stream not available
 
 ## Noordhoek
-<div class="container-fluid">
-    <video width="100%" height="auto" controls preload="auto">
-        <source src="https://live-sec.streamworks.video/oceaneye/oceaneye30.stream/playlist.m3u8" type="application/x-mpegURL">
-    </video>
-</div>
+⚠️ Stream not available
 
 ## Llandudno
-<div class="container-fluid">
-    <video width="100%" height="auto" controls preload="auto">
-        <source src="https://cams.cdn-surfline.com/cdn-int/za-llandudno/playlist.m3u8" type="application/x-mpegURL">
-    </video>
-</div>
+⚠️ Stream not available
 
 ## Camps Bay
-<div class="container-fluid">
-    <video width="100%" height="auto" controls="" preload="auto">
-        <source src="https://live-sec.streamworks.video/oceaneye/oceaneye47.stream/playlist.m3u8" type="application/x-mpegURL">
-    </video>
-</div>
+⚠️ Stream not available
 
 ## Sea Point
-<div class="container-fluid">
-    <video width="100%" height="auto" controls="" preload="auto">
-        <source src="https://live-sec.streamworks.video/oceaneye/oceaneye29.stream/playlist.m3u8" type="application/x-mpegURL">
-    </video>
-</div>
+⚠️ Stream not available
 
 ## Sunset Beach
-<div class="container-fluid">
-    <video width="100%" height="auto" controls preload="auto">
-        <source src="https://live-sec.streamworks.video/oceaneye/oceaneye31.stream/playlist.m3u8" type="application/x-mpegURL">
-    </video>
-</div>
+⚠️ Stream not available
 
 ## Kite Beach
-<div class="container-fluid">
-    <video width="100%" height="auto" controls preload="auto">
-        <source src="https://live-sec.streamworks.video/oceaneye/oceaneye28.stream/playlist.m3u8" type="application/x-mpegURL">
-    </video>
-</div>
-
-## Blouberg
-<div class="container-fluid">
-    <video width="100%" height="auto" controls preload="auto">
-        <source src="https://live-sec.streamworks.video/oceaneye/oceaneye11.stream/playlist.m3u8" type="application/x-mpegURL">
-    </video>
-</div>
+⚠️ Stream not available
 
 ## Big Bay
-<div class="container-fluid">
-    <video width="100%" height="auto" controls preload="auto">
-        <source src="https://live-sec.streamworks.video/oceaneye/oceaneye12.stream/playlist.m3u8" type="application/x-mpegURL">
-    </video>
-</div>
+⚠️ Stream not available
 
 ## Melkbos
-<div class="container-fluid">
-    <video width="100%" height="auto" controls preload="auto">
-        <source src="https://live-sec.streamworks.video/oceaneye/oceaneye10.stream/playlist.m3u8" type="application/x-mpegURL">
-    </video>
-</div>
+⚠️ Stream not available
+
+
+
